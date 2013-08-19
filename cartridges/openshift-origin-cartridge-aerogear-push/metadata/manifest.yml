@@ -7,7 +7,7 @@ License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
 Vendor: Red Hat
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: aerogear
 Categories:
   - service
   - web_framework
@@ -124,3 +124,4 @@ Endpoints:
     
 Additional-Control-Actions:
     - threaddump
+Source-Url: https://github.com/fjuma/cartridgesource/raw/master/openshift-origin-cartridge-aerogear-push.tar.gz
